@@ -46,3 +46,9 @@
 #onlinePanel .info-image img{
 display: none;
 }
+
+.gmap-map{display:block;max-width:100%;height:auto}
+.location-vcard {margin-top: 10px;text-align: center;}
+.gmap-gmap{margin-top: 15px}
+.field-name-body{margin-top: 15px}
+.webform-client-form{margin-top: 15px}

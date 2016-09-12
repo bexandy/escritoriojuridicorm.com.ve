@@ -639,7 +639,7 @@ footer.entry-meta .meta-in {
   padding-bottom: 0;
   margin: 0;
   border-bottom: none;
-  text-align: left;
+  text-align: center;
 }
 .page-header .page-title {
   margin-top: 0;
@@ -748,19 +748,19 @@ footer.entry-meta .meta-in {
 
 
 **********************************************************************/
-#footer {
+#block-block-5 {
   background: #232323;
   padding: 30px 0 0 0;
-  font-size: 12px;
+  font-size: 13px;
   color: #999;
 }
-#footer a {
+#block-block-5 a {
   color: #ccc;
 }
-#footer a:hover {
+#block-block-5 a:hover {
   color: #fff;
 }
-#footer h3.widget-title {
+#block-block-5 h3.widget-title {
   font-size: 15px;
   font-size: 0.9375rem;
   text-transform: uppercase;
